@@ -1,3 +1,4 @@
+#this is test to simulate how git repo work with saltstack
 create_user:
   user.present:
     - name: testuser
